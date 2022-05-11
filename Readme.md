@@ -2,7 +2,7 @@ Implementation of A-star Algorithm using Turtlebot Burger
 
 
 ## Steps to run the package
-cd catkin_ws/src ---> git clone the repository.
+1. cd catkin_ws/src ---> git clone the repository.
 2.) Run the following commands:
 3.) cd ..
 4.) catkin_make
