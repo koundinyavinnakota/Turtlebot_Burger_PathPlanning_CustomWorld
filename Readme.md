@@ -21,6 +21,7 @@ d. Enter the goal location
 
 After the path is displayed, please press 'q' on the image to start the turtlebot.
 
+### Video link for output of A-star implementation on burger turtlebot3 : https://youtube.com/shorts/tdTCO5UjJfM?feature=share
 
 Dependencies:
 -Python
