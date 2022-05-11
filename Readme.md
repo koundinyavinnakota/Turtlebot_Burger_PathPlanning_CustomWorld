@@ -2,7 +2,7 @@ Implementation of A-star Algorithm using Turtlebot Burger
 
 
 ## Steps to run the package
-1.) cd catkin_ws/src ---> git clone the repository.
+cd catkin_ws/src ---> git clone the repository.
 2.) Run the following commands:
 3.) cd ..
 4.) catkin_make
@@ -24,9 +24,9 @@ After the path is displayed, please press 'q' on the image to start the turtlebo
 ### Video link for output of A-star implementation on burger turtlebot3 : https://youtube.com/shorts/tdTCO5UjJfM?feature=share
 
 # Dependencies:
--Python
--Gazebo
--ROS
--Opencv 4.1.0
--Numpy
--queue
+- Python
+- Gazebo
+- ROS
+- Opencv 4.1.0
+- Numpy
+- queue
