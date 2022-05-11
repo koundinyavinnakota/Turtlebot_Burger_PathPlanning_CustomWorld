@@ -3,13 +3,13 @@ Implementation of A-star Algorithm using Turtlebot Burger
 
 ## Steps to run the package
 1. cd catkin_ws/src ---> git clone the repository.
-2.) Run the following commands:
-3.) cd ..
-4.) catkin_make
-5.) source devel/setup.bash
-6.) roslaunch astar astar.launch ( This will launch the turtlebot3 in the custom map inside the gazebo environement.)
-7.) Open a new terminal source the bash
-8.) rosrun astar mainNode.py
+2. Run the following commands:
+3. cd ..
+4. catkin_make
+5. source devel/setup.bash
+6. roslaunch astar astar.launch ( This will launch the turtlebot3 in the custom map inside the gazebo environement.)
+7. Open a new terminal source the bash
+8. rosrun astar mainNode.py
 
 
 ## Giving Inputs to the program:
