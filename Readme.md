@@ -14,7 +14,8 @@ Implementation of A-star Algorithm using Turtlebot Burger
 
 ## Giving Inputs to the program:
 a. RPM1, RPM2 - (Advised rpms 1,0.5 or please give in range of 0 - 5 for optimum results)
-b. Please enter the start point in range 0-100.( Please start from 3,3,0 as the turtlebot spawn position is fixed. In order c. change the spawn location please navigate to the launch file and edit the first three lines corresponding to the robot pose and make the package)
+b. Please enter the start point in range 0-100.( Please start from 3,3,0 as the turtlebot spawn position is fixed. In order 
+c. change the spawn location please navigate to the launch file and edit the first three lines corresponding to the robot pose and make the package)
 d. Enter the goal location
 
 
